@@ -1,0 +1,20 @@
+{
+  "name": "@masoodalam/cli-todo-app",
+  "version": "1.0.0",
+  "description": "A simple CLI todo app",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
